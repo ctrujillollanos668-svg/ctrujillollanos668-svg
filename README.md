@@ -52,9 +52,10 @@
 <div style="border-radius:18px; overflow:hidden;">
 
 <img 
-  width="380"
-  src="https://github.com/user-attachments/assets/5c6ffe80-cef0-40ed-ba4c-6b2b836594ea"
-  alt="Animación 3D Wireframe"
+  width="300"
+  src="https://github.com/ctrujillollanos668-svg.png"
+  style="border-radius:20px; border: 2px solid #222;"
+  alt="Foto de Christian"
 />
 
 </div>
